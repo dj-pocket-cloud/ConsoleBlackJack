@@ -1,0 +1,5 @@
+﻿  ConsoleBlackJack.cpp
+C:\Users\ms133\source\repos\ConsoleBlackJack\ConsoleBlackJack.cpp(310,51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ms133\source\repos\ConsoleBlackJack\ConsoleBlackJack.cpp(311,47): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ms133\source\repos\ConsoleBlackJack\ConsoleBlackJack.cpp(542,28): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+  ConsoleBlackJack.vcxproj -> C:\Users\ms133\source\repos\ConsoleBlackJack\Debug\ConsoleBlackJack.exe
